@@ -1,7 +1,7 @@
 //Code Authors:
 //* Ahmed A. Radwan (author)
 //* Maisa Jazba 
-//* modified by Joe Bufkin
+//* modified by Joe Bufkin, USED only for testing, not for navigation
 
 #include <ArduinoHardware.h>
 #include <ros.h>
